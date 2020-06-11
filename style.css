@@ -24,7 +24,7 @@ nav a {
   background: grey;
 }
 
-figcaption {
+#featured-property figcaption {
   text-align: center;
   font-size: 10px;
 }
