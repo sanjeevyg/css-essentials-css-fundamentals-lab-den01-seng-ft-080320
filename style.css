@@ -16,7 +16,6 @@ img {
 
 nav {
   text-align: center;
- 
 }
 
 nav a {
@@ -25,7 +24,7 @@ nav a {
   background: grey;
 }
 
-figcaption {
+#featured-property figure figcaption {
   text-align: center;
   font-size: 10px;
 }
@@ -39,6 +38,7 @@ figcaption {
 
 
 #details div {
+  float: left;
   background-color: red;
   text-align: center;
   display: block;
